@@ -8,13 +8,11 @@ Data
 
 The data here were imported from a report made with the Atlanta Regional Commission [Plan-It project database](http://planitpublic.atlantaregional.com/).  The seed data is from the TIP 13Q3 modification period and contains all projects within the City of Atlanta jurisdiction.
 
-Viewing the Data
-=======
+## Viewing the Data
 
 The data formats used here (csv, geoJSON) are [both natively](https://help.github.com/articles/rendering-csv-and-tsv-data) [supported by GitHub](https://help.github.com/articles/mapping-geojson-files-on-github), that is you can view them as tables or maps just by clicking on the file name.
 
-Examples
-=======
+### Examples
 
 map: https://github.com/landonreed/plan-git/blob/master/plan2040/AT-267.geoJSON
 
