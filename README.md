@@ -20,7 +20,7 @@ table: https://github.com/landonreed/plan-git/blob/master/plan2040/projects.csv
 
 ## Contributing
 
-If there is something wrong with the data you see here, feel free to edit (either locally on your own computer or directly on GitHub).  By creating a pull request, you'll let us know that something needs to change here and we'll address it as soon as we can.
+If there is something wrong with the data you see here, feel free to edit (either locally on your own computer or directly on GitHub).  By [using a pull request](https://help.github.com/articles/using-pull-requests) or the [issue tracking system](https://github.com/features/projects/issues), you'll let us know that something needs to change here and we'll address it as soon as we can.
 
 For an easy way to edit geoJSON in the browser, check out http://geojson.io/
 
