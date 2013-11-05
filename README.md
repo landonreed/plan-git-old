@@ -18,8 +18,7 @@ map: https://github.com/landonreed/plan-git/blob/master/plan2040/AT-267.geoJSON
 
 table: https://github.com/landonreed/plan-git/blob/master/plan2040/projects.csv
 
-Contributing
-=======
+## Contributing
 
 If there is something wrong with the data you see here, feel free to edit (either locally on your own computer or directly on GitHub).  By creating a pull request, you'll let us know that something needs to change here and we'll address it as soon as we can.
 
