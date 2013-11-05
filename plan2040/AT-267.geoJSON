@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ARC-ID": "AT-267"
+        "ARC-ID": "AT-267",
         "name": "Atlanta Streetcar"
       },
       "geometry": {
